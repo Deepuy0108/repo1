@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Hi i am test 2 file created 
-line one added
+line one is added
 =======
 line two is added 
 line three is added
