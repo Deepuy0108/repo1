@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi i am test 2 file created 
 line one added
+=======
+line two is added 
+line three is added
+>>>>>>> 672e98e20cb24cc3cf07a8241a0799b46699831d
