@@ -5,6 +5,8 @@ line one is added
 line two is added 
 line three is added
 line four is added
+line five is added in branch-three
+line six is added in branch-three
 =======
 this is being added in branch-one
 
